@@ -12,6 +12,7 @@
   ],
   "license": "MIT",
   "main": [
+    "bootstrap-chosen.css",
     "bootstrap-chosen-variables.less", 
     "bootstrap-chosen-variables.scss",
     "bootstrap-chosen.less",
